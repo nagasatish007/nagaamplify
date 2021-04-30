@@ -1,0 +1,10 @@
+{
+  "auth": {
+    "nagaamplify4e9f383f": {
+      "service": "Cognito",
+      "providerPlugin": "awscloudformation",
+      "dependsOn": [],
+      "customAuth": false
+    }
+  }
+}
